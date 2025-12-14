@@ -56,9 +56,11 @@ jupyter notebook
 ## 📊 Sample Visualizations
 
 <img width="1502" height="542" alt="Image 1" src="https://github.com/user-attachments/assets/b6c596fd-a971-4056-9a23-d592c7ba0014" />
+
 - Figure 1: Monthly booking trends showing seasonal patterns
 
 <img width="597" height="433" alt="output" src="https://github.com/user-attachments/assets/82c8fea7-ff71-49d3-905b-522baba8bd55" />
+
 - Figure 2: Aircraft vs. fare_conditions 
 
 ## 📊 Key Metrics
